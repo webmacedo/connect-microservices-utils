@@ -1,0 +1,19 @@
+{
+    "name": "webmacedo/microservices-utils",
+    "description": "Pacote de utilitários para microserviços em Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MACEDO",
+            "email": "macedo.gti@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Webmacedo\\MicroservicesUtils\\": "src/"
+        }
+    }
+}
